@@ -35,6 +35,15 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
+		<!-- tio-相关数据包 -->
+		<!-- https://mvnrepository.com/artifact/org.t-io/tio-core -->
+		<dependency>
+		    <groupId>org.t-io</groupId>
+		    <artifactId>tio-core</artifactId>
+		    <version>2.0.8.v20180205-RELEASE</version>
+		</dependency>
+		
 	</dependencies>
 
 	<build>
